@@ -85,14 +85,14 @@ h3 {
   width: 100%;
 }
 
-.red {
+.red-text, h3 {
 	background-color: red;
 }
 
-.blue {
+.blue-text, h3 {
 	background-color: blue;
 }
 
-.orange {
+.orange-text, h3 {
 	background-color: orange;
 }
